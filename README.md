@@ -1,6 +1,5 @@
 # springboot-kafka
 1. Setting Up Kafka
-
 https://kafka.apache.org/quickstart
 Step 1: Download the code
 Step 2: Start the server
